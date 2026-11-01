@@ -234,4 +234,4 @@ This repository serves as the official landing page for WinScan2PDF. The softwar
 **Get the most recent version of WinScan2PDF today!**
 
 ---
-**Last updated:** 2026-11-01 19:59:53 UTC
+**Last updated:** 2026-11-01 23:25:56 UTC
